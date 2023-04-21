@@ -6,10 +6,6 @@ Neste problema a entranda é um único string que você deve tratar adequadament
 
 A primeira linha deste string será o inteiro N que indica o número de funcionários da Cubos. Nas próximas N linhas você lerá dois números, as coordenadas X e Y do i-ésimo funcionário.
 
-Constraints
-
-2 ≤ N ≤ 10^3 -1000 ≤ X, Y ≤ 1000
-
 Output Format
 
 Imprima um único número, a resposta para o problema.
